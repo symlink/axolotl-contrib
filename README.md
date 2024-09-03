@@ -5,7 +5,7 @@
 ![multigpu-semi-weekly tests](https://github.com/axolotl-ai-cloud/axolotl/actions/workflows/multi-gpu-e2e.yml/badge.svg)
 
 
-<img src="image/axo.jpg" alt="axolotl" width="160">
+<img src="image/axolotl.jpg" alt="axolotl" width="160">
 
 ## Axolotl makes finetuning AI models friendly and fast, without sacrificing functionality or scale. 
 
